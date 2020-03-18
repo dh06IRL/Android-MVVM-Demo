@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="pixabay_item_height">180dp</dimen>
+    <dimen name="pixabay_imageview_height">120dp</dimen>
+    <dimen name="pixabay_user_banner_height">60dp</dimen>
+    <dimen name="pixabay_user_profile_img_height">30dp</dimen>
+
+    <dimen name="pixabay_user_profile_margin_left">8dp</dimen>
+    <dimen name="pixabay_user_profile_margin_right">8dp</dimen>
+    <dimen name="pixabay_user_name_text_size">18sp</dimen>
+    <dimen name="pixabay_photo_likes_text_size">12sp</dimen>
+</resources>
