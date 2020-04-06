@@ -1,4 +1,4 @@
-package com.cartoaware.mvvm;
+package com.cartoaware.mvvm.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.lifecycle.ViewModelProviders;
